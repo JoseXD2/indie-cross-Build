@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Gaster blasterss.png">
+	
+	
+	<SubTexture name="fefe instance 10000" x="2" y="2" width="124" height="97" frameX="0" frameY="-19" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10001" x="129" y="2" width="122" height="100" frameX="-54" frameY="-15" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10002" x="254" y="2" width="112" height="102" frameX="-110" frameY="-17" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10003" x="369" y="2" width="101" height="109" frameX="-166" frameY="-11" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10004" x="473" y="2" width="102" height="119" frameX="-206" frameY="-3" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10005" x="577" y="2" width="97" height="124" frameX="-247" frameY="-1" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10006" x="677" y="2" width="98" height="124" frameX="-286" frameY="0" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10007" x="777" y="2" width="102" height="119" frameX="-316" frameY="-1" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10008" x="882" y="2" width="102" height="112" frameX="-344" frameY="-4" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10009" x="987" y="2" width="104" height="106" frameX="-370" frameY="-9" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10010" x="1094" y="2" width="110" height="101" frameX="-394" frameY="-13" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10011" x="1207" y="2" width="114" height="102" frameX="-415" frameY="-10" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10012" x="1323" y="2" width="118" height="102" frameX="-430" frameY="-9" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10013" x="1445" y="2" width="121" height="101" frameX="-442" frameY="-8" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10014" x="1569" y="2" width="123" height="100" frameX="-452" frameY="-8" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10015" x="1695" y="2" width="124" height="98" frameX="-460" frameY="-8" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10016" x="1822" y="2" width="124" height="97" frameX="-464" frameY="-8" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10017" x="2" y="129" width="124" height="97" frameX="-466" frameY="-8" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10018" x="129" y="129" width="124" height="97" frameX="-467" frameY="-8" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10019" x="257" y="129" width="124" height="97" frameX="-468" frameY="-8" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10020" x="384" y="129" width="125" height="97" frameX="-469" frameY="-9" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10021" x="511" y="129" width="125" height="97" frameX="-470" frameY="-9" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10022" x="639" y="129" width="124" height="97" frameX="-471" frameY="-9" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10023" x="766" y="129" width="124" height="97" frameX="-472" frameY="-9" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10024" x="893" y="129" width="124" height="97" frameX="-473" frameY="-9" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10025" x="1021" y="129" width="124" height="97" frameX="-474" frameY="-9" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10026" x="1148" y="129" width="124" height="97" frameX="-475" frameY="-10" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10027" x="1275" y="129" width="124" height="97" frameX="-476" frameY="-10" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10028" x="2" y="229" width="1208" height="101" frameX="-477" frameY="-8" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10029" x="2" y="333" width="1233" height="101" frameX="-452" frameY="-8" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10030" x="2" y="437" width="1259" height="101" frameX="-427" frameY="-8" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10031" x="2" y="541" width="1285" height="101" frameX="-402" frameY="-8" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10032" x="2" y="645" width="1311" height="101" frameX="-377" frameY="-8" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10033" x="2" y="749" width="1337" height="101" frameX="-352" frameY="-8" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10034" x="2" y="853" width="1406" height="101" frameX="-287" frameY="-9" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10035" x="2" y="957" width="1476" height="101" frameX="-222" frameY="-10" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10036" x="2" y="1061" width="1539" height="101" frameX="-157" frameY="-11" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10037" x="2" y="1165" width="1506" height="57" frameX="-192" frameY="-30" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10038" x="2" y="1225" width="1508" height="36" frameX="-193" frameY="-42" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10039" x="2" y="1264" width="1511" height="43" frameX="-193" frameY="-38" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10040" x="2" y="1310" width="1513" height="32" frameX="-193" frameY="-44" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10041" x="2" y="1345" width="1516" height="18" frameX="-194" frameY="-52" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10042" x="2" y="1366" width="1518" height="17" frameX="-194" frameY="-53" frameWidth="1712" frameHeight="125" />
+	<SubTexture name="fefe instance 10043" x="2" y="1385" width="1521" height="9" frameX="-191" frameY="-54" frameWidth="1712" frameHeight="125" />
+</TextureAtlas>

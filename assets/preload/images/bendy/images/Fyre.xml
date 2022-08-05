@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Fyre.png">
+<SubTexture name="Penis instance 10000" x="1288" y="0" width="1288" height="649" frameX="-2" frameY="-28" frameWidth="1297" frameHeight="685" />
+<SubTexture name="Penis instance 10001" x="1285" y="650" width="1285" height="640" frameX="-5" frameY="-39" frameWidth="1297" frameHeight="685" />
+<SubTexture name="Penis instance 10002" x="0" y="1296" width="1287" height="637" frameX="-2" frameY="-36" frameWidth="1297" frameHeight="685" />
+<SubTexture name="Penis instance 10003" x="0" y="1933" width="1285" height="614" frameX="-4" frameY="-55" frameWidth="1297" frameHeight="685" />
+<SubTexture name="Penis instance 10004" x="1285" y="1933" width="1287" height="599" frameX="-2" frameY="-74" frameWidth="1297" frameHeight="685" />
+<SubTexture name="Penis instance 10005" x="0" y="650" width="1285" height="646" frameX="-5" frameY="-33" frameWidth="1297" frameHeight="685" />
+<SubTexture name="Penis instance 10006" x="1287" y="1296" width="1285" height="637" frameX="-4" frameY="-32" frameWidth="1297" frameHeight="685" />
+<SubTexture name="Penis instance 10007" x="0" y="0" width="1288" height="650" frameX="-2" frameY="-27" frameWidth="1297" frameHeight="685" />
+</TextureAtlas>

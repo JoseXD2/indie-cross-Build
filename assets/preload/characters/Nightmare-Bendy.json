@@ -1,0 +1,175 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				179
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DeathBendy instance"
+		},
+		{
+			"offsets": [
+				351,
+				230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left instance 1"
+		},
+		{
+			"offsets": [
+				13,
+				436
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up instance 1"
+		},
+		{
+			"offsets": [
+				-32,
+				-88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down instance"
+		},
+		{
+			"offsets": [
+				-57,
+				233
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FUCK YOU"
+		},
+		{
+			"offsets": [
+				12,
+				437
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "Up instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				50
+			],
+			"anim": "Bye",
+			"fps": 24,
+			"name": "bye bitch instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				2179
+			],
+			"anim": "Intro",
+			"fps": 24,
+			"name": "Intro instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				352,
+				230
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				8,
+				7
+			],
+			"name": "Left instance 1"
+		},
+		{
+			"offsets": [
+				-60,
+				230
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "FUCK YOU instance 1"
+		},
+		{
+			"offsets": [
+				-31,
+				-87
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "Down instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bendy/NMB",
+	"position": [
+		-170,
+		100
+	],
+	"healthicon": "nightmare-bendy",
+	"flip_x": false,
+	"healthbar_colors": [
+		242,
+		185,
+		0
+	],
+	"camera_position": [
+		-100,
+		-400
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 3.6
+}

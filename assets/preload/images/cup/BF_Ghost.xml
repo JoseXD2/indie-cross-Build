@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF Ghost.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="thrtr instance 10000" x="0" y="0" width="386" height="433" frameX="-7" frameY="-1" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10001" x="0" y="0" width="386" height="433" frameX="-7" frameY="-1" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10002" x="0" y="0" width="386" height="433" frameX="-7" frameY="-1" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10003" x="0" y="0" width="386" height="433" frameX="-7" frameY="-1" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10004" x="386" y="0" width="344" height="428" frameX="-17" frameY="0" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10005" x="386" y="0" width="344" height="428" frameX="-17" frameY="0" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10006" x="386" y="0" width="344" height="428" frameX="-17" frameY="0" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10007" x="386" y="0" width="344" height="428" frameX="-17" frameY="0" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10008" x="730" y="0" width="324" height="433" frameX="-36" frameY="-1" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10009" x="730" y="0" width="324" height="433" frameX="-36" frameY="-1" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10010" x="730" y="0" width="324" height="433" frameX="-36" frameY="-1" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10011" x="730" y="0" width="324" height="433" frameX="-36" frameY="-1" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10012" x="0" y="433" width="356" height="429" frameX="-22" frameY="-1" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10013" x="0" y="433" width="356" height="429" frameX="-22" frameY="-1" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10014" x="0" y="433" width="356" height="429" frameX="-22" frameY="-1" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10015" x="0" y="433" width="356" height="429" frameX="-22" frameY="-1" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10016" x="356" y="433" width="323" height="413" frameX="-43" frameY="-1" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10017" x="356" y="433" width="323" height="413" frameX="-43" frameY="-1" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10018" x="356" y="433" width="323" height="413" frameX="-43" frameY="-1" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10019" x="356" y="433" width="323" height="413" frameX="-43" frameY="-1" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10020" x="679" y="433" width="414" height="390" frameX="-17" frameY="-1" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10021" x="679" y="433" width="414" height="390" frameX="-17" frameY="-1" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10022" x="679" y="433" width="414" height="390" frameX="-17" frameY="-1" frameWidth="431" frameHeight="434"/>
+	<SubTexture name="thrtr instance 10023" x="679" y="433" width="414" height="390" frameX="-17" frameY="-1" frameWidth="431" frameHeight="434"/>
+</TextureAtlas>

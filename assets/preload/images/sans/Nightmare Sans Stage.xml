@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Nightmare Sans Stage.png">
+	
+	
+	<SubTexture name="Normal instance 10000" x="2" y="2" width="483" height="272" />
+	<SubTexture name="Normal instance 10001" x="488" y="2" width="483" height="272" />
+	<SubTexture name="Normal instance 10002" x="973" y="2" width="483" height="272" />
+	<SubTexture name="Normal instance 10003" x="1459" y="2" width="483" height="272" />
+	<SubTexture name="Normal instance 10004" x="2" y="277" width="483" height="272" />
+	<SubTexture name="Normal instance 10005" x="488" y="277" width="483" height="272" />
+	<SubTexture name="Normal instance 10006" x="973" y="277" width="483" height="272" />
+	<SubTexture name="Normal instance 10007" x="1459" y="277" width="483" height="272" />
+	<SubTexture name="Normal instance 10008" x="2" y="551" width="483" height="272" />
+	<SubTexture name="Normal instance 10009" x="488" y="551" width="483" height="272" />
+	<SubTexture name="Normal instance 10010" x="973" y="551" width="483" height="272" />
+	<SubTexture name="Normal instance 10011" x="1459" y="551" width="483" height="272" />
+	<SubTexture name="Normal instance 10012" x="2" y="826" width="483" height="272" />
+	<SubTexture name="Normal instance 10013" x="488" y="826" width="483" height="272" />
+	<SubTexture name="dd instance 10000" x="973" y="826" width="480" height="145" frameX="0" frameY="0" frameWidth="480" frameHeight="146" />
+	<SubTexture name="dd instance 10001" x="1456" y="826" width="480" height="132" frameX="0" frameY="-13" frameWidth="480" frameHeight="146" />
+	<SubTexture name="dd instance 10002" x="2" y="1100" width="480" height="119" frameX="0" frameY="-26" frameWidth="480" frameHeight="146" />
+	<SubTexture name="dd instance 10003" x="485" y="1100" width="480" height="106" frameX="0" frameY="-39" frameWidth="480" frameHeight="146" />
+	<SubTexture name="dd instance 10004" x="969" y="1100" width="480" height="93" frameX="0" frameY="-52" frameWidth="480" frameHeight="146" />
+	<SubTexture name="dd instance 10005" x="1452" y="1100" width="480" height="81" frameX="0" frameY="-65" frameWidth="480" frameHeight="146" />
+	<SubTexture name="dd instance 10006" x="2" y="1222" width="480" height="68" frameX="0" frameY="-78" frameWidth="480" frameHeight="146" />
+	<SubTexture name="dd instance 10007" x="485" y="1222" width="480" height="55" frameX="0" frameY="-91" frameWidth="480" frameHeight="146" />
+	<SubTexture name="sdfs instance 10000" x="969" y="1222" width="482" height="271" />
+</TextureAtlas>
